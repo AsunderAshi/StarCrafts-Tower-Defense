@@ -1,0 +1,11 @@
+{
+	"wave_1" : {
+		"Unit": {"Zergling": 3, "Roach" : 2},
+		"delay" : 5
+	},
+
+	"wave_2" : {
+		"Unit" : {"Zergling": 20},
+		"delay" : 10
+	}
+}
